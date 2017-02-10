@@ -33,7 +33,7 @@ import static org.elasticsearch.index.query.QueryBuilders.boolQuery;
  * http://es.xiaoleilu.com/030_Data/15_Get.html
  * Relational DB -> Databases -> Tables -> Rows -> Columns
  Elasticsearch -> Indices  -> Types  -> Documents -> Fields
- * @author:gaoguangjin
+ * @author:gaoguangjin modify by ivy ,to test git oper
  * @date 2016/9/20 15:29
  */
 @Slf4j
